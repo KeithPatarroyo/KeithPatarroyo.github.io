@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Keith Patarroyo
+subtitle: M.Sc. student in Computer Science, Phycicist
 ---
+![alt text](/img/Harvard.jpg "Chilling in Harvard")
 
-My name is Inigo Montoya. I have the following qualities:
+I’m currently a M.Sc. student in Computer Science at the Computational Design Group from the Université de Montréal. I work on the science of twister candy! under the supervision of Bernhard Thomaszewski. I’m also a member of LIGUM(Laboratoire d’Informatique Graphique de l’Université de Montréal).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+A short description of my training, I was drawn to continuous and discrete (Fluid Dynamics and Kinetic Theory) by J. Muñoz, taught FEM by J. Galvis, DG-FEM by X. Zhang(张翔雄), Lattice Boltzmann by M. Mendoza, inter alia.
 
-What else do you need?
+B.Sc. Physics Universidad Nacional de Colombia (2018)
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Montréal, QC, Canada.
