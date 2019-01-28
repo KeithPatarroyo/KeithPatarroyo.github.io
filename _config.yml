@@ -27,9 +27,10 @@ navbar-links:
   Projects:
     - Blog: "https://keithpatarroyo.github.io/2019-01-28-blog/"
     - Physically based sound: "https://github.com/KeithPatarroyo/ModalSound"
+    - Physically based animation: "https://github.com/KeithPatarroyo/ModalSound"
     - Reinforcement learning: "https://github.com/KeithPatarroyo/agents"
-  Academia:
-    - Articles & Presentations: "https://keithpatarroyo.github.io/2019-01-28-blog/"
+  Publications:
+    - Papers & Slides: "https://keithpatarroyo.github.io/2019-01-28-blog/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
