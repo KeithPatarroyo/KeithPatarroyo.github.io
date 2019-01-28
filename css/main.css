@@ -127,6 +127,7 @@ img {
 .navbar-custom .nav li a {
   font-weight: 800;
   color: {{ site.navbar-text-col }};
+  border-bottom: 3px solid rgba(0,0,0,.0001);
 }
 
 .navbar-custom .navbar-brand:hover,
@@ -134,7 +135,7 @@ img {
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
   color: {{ site.hover-col }};
-  border-bottom: 3px solid {{ site.hover-col }};
+  border-color:{{ site.hover-col }};
 }
 
 .navbar-custom .navbar-brand-logo {
