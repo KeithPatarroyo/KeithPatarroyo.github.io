@@ -5,7 +5,7 @@ subtitle: M.Sc. student in Computer Science, Physicist
 ---
 ![alt text](/img/Harvard.jpg "Chilling in Harvard")
 
-<div style="text-align: justify" markdown=1> 
+<div style="text-align: justify" markdown="span"> 
   
 I’m currently a M.Sc. student in Computer Science at the [Computational Design Group](http://www-labs.iro.umontreal.ca/~bernhard/) from the Université de Montréal. I work on the science of twister candy! under the supervision of [Bernhard Thomaszewski](http://www-labs.iro.umontreal.ca/~bernhard/bernhard.html). I’m also a member of [LIGUM](http://www.ligum.umontreal.ca/)(Laboratoire d’Informatique Graphique de l’Université de Montréal).
 
