@@ -34,7 +34,11 @@
 			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
 			{% endif %}
 		  {% endif %}
-		  
+		  <ul class="homie" style="list-style: none; ">
+			  <li class="next">
+				  <a href="/page2">Learn More</a>
+			  </li>
+		</ul>
 		  {% if include.type == "post" %}
 		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
 		  {% endif %}
@@ -59,7 +63,11 @@
 			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
 			{% endif %}
 		  {% endif %}
-		  
+		  <ul class="homie" style="list-style: none; ">
+			  <li class="next">
+				  <a href="/page2">Learn More</a>
+			  </li>
+		</ul>
 		  {% if include.type == "post" %}
 		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
 		  {% endif %}
