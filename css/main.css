@@ -130,8 +130,11 @@ img {
   border-bottom: 3px solid rgba(0,0,0,.0001);
 }
 
+.navbar-custom .navbar-active{
+  color: {{ site.hover-col }};
+}
+
 .navbar-custom .navbar-brand:hover,
-.navbar-custom .navbar-active,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
