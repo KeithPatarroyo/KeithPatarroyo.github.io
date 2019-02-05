@@ -111,6 +111,7 @@ img {
   background-color: {{ site.navbar-col }};
   border-bottom: 1px solid {{ site.navbar-col }};
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  border-radius: 0px 0px 5px 5px;
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img }});
   background-attachment: fixed;
