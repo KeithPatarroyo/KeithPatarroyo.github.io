@@ -233,6 +233,8 @@ img {
   width: 100%;
   display: none;
   word-break: break-word;
+  border: 3px solid {{ site.navbar-children-col }};
+  border-radius: 0px 0px 9px 9px;
 }
 .navbar-custom .nav .navlinks-container .navlinks-children a {
   display: block;
