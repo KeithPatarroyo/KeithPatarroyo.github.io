@@ -131,6 +131,7 @@ img {
 }
 
 .navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-active,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
