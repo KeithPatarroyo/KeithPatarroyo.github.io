@@ -34,7 +34,7 @@
 			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
 			{% endif %}
 		  {% endif %}
-		{% if page.kind %}
+		{% if page.kind == "homepage"%}
 		  <ul class="homie" style="list-style: none; ">
 			  <li class="next">
 				  <a href="/page2">Learn More</a>
@@ -65,7 +65,7 @@
 			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
 			{% endif %}
 		  {% endif %}
-		{% if page.kind %}
+		{% if page.kind == "homepage"%}
 		  <ul class="homie" style="list-style: none; ">
 			  <li class="next">
 				  <a href="/page2">Learn More</a>
