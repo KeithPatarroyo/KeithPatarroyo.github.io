@@ -640,16 +640,61 @@ footer .theme-by {
   /* margin: -10px 10px 0px 20px; */
 }
 
-.home-button.blog-home-button {
+.homie.blog-homie {
   margin-top: 10px;
 }
 
 @media only screen and (min-width: 768px) {
-  .home-button.blog-home-button  {
+  .homie.blog-homie  {
     margin-top: 10px;
   }
 }
 
+/* --- Home-button small screen --- */
+
+.homiesmall li a {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 800;
+  position: relative;
+  top: 10px;
+  letter-spacing: 1px;
+  padding: 10px 15px;
+  background-color: {{ site.link-col }};
+  border-radius: 20px;
+  /* border-color: #f48226; */
+  color: #fff;
+  text-shadow: none;
+}
+
+@media only screen and (min-width: 768px) {
+  .homiesmall li a {
+    padding: 15px 15px;
+  }
+}
+.homiesmall li a:hover,
+.homiesmall li a:focus {
+  color: #fcf8e3;
+  border: 1px solid {{ site.hover-col }};
+  background-color: {{ site.hover-col }};
+  text-decoration: none;
+}
+
+.homiesmall {
+  padding: 10px 0px;
+  /* margin: -10px 10px 0px 20px; */
+}
+
+.homiesmall.blog-homiesmall {
+  margin-top: 10px;
+}
+
+@media only screen and (min-width: 768px) {
+  .homiesmall.blog-homiesmall  {
+    margin-top: 10px;
+  }
+}
 
 /* --- Pager --- */
 
