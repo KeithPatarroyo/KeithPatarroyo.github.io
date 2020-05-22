@@ -10,7 +10,7 @@ I’m currently a M.Sc. student in Computer Science at the [Computational Design
 </div>
 <p> </p>
 <div style="text-align: justify" markdown="span"> 
-A short description of my training, I was drawn to continuous and discrete (Fluid Dynamics and Kinetic Theory) by [J. Muñoz](http://ciencias.bogota.unal.edu.co/gruposdeinvestigacion/simulacion-de-sistemas-fisicos/miembros/director/), taught FEM by [J. Galvis](https://sites.google.com/view/jgalvis/home), DG-FEM by [X. Zhang(张翔雄)](http://www.math.purdue.edu/~zhan1966/), Lattice Boltzmann by [M. Mendoza](http://www.ifb.ethz.ch/comphys/people/senior-scientists/miller-mendoza-jimenez.html), inter alia.
+A short description of my training, I was drawn to continuous and discrete (Fluid Dynamics and Kinetic Theory) by [J. Muñoz](http://ciencias.bogota.unal.edu.co/gruposdeinvestigacion/simulacion-de-sistemas-fisicos/miembros/director/), taught FEM by [J. Galvis](https://sites.google.com/view/jgalvis/home), DG-FEM by [X. Zhang(张翔雄)](http://www.math.purdue.edu/~zhan1966/), Lattice Boltzmann by [M. Mendoza](http://www.ifb.ethz.ch/comphys/people/senior-scientists/miller-mendoza-jimenez.html), Discrete Dif. Geometry by [M. Bessmeltsev(Бессмельцев)](http://www-labs.iro.umontreal.ca/~bmpix/) inter alia.
 </div>
 
 B.Sc. Physics Universidad Nacional de Colombia (2018)
